@@ -1,3 +1,3 @@
 from securenotes import app
 
-run = app()
+app = app()
