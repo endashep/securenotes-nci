@@ -11,8 +11,7 @@ from flask_login import login_user, current_user, logout_user, login_required
 @app.route('/')
 @app.route('/home')
 def home():
-    notes = Note.query.order_by(Note.date_created.desc())
-    return render_template('home.html', notes=notes)
+    return render_template('home.html')
 
 @app.route('/about')
 def about():
