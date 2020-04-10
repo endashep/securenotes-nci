@@ -7,6 +7,12 @@ from securenotes.forms import RegistrationForm, LoginForm, UpdateAccountForm, No
 from securenotes.models import User, Note
 from flask_login import login_user, current_user, logout_user, login_required
 
+@app.before_request
+def before_request():
+    if request.url.startswith('http://'):
+        url = request.url.replace('http://', 'https://', 1)
+        code = 301
+        return redirect(url, code=code)
 
 @app.route('/')
 @app.route('/home')
