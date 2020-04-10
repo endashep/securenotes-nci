@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ff55e2-20fa-4974-bdd9-8332eced1bdf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6ff55e2-20fa-4974-bdd9-8332eced1bdf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,7 @@
       <workItem from="1585999572695" duration="339000" />
       <workItem from="1586008617147" duration="2609000" />
       <workItem from="1586074905190" duration="2258000" />
-      <workItem from="1586542713186" duration="1515000" />
+      <workItem from="1586542713186" duration="1791000" />
     </task>
     <servers />
   </component>
@@ -282,11 +280,11 @@
     </state>
     <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1440.821/-279.-1057.1920.1057@-279.-1057.1920.1057" timestamp="1584979255595" />
     <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1440.821/-304.-1057.1920.1057@-304.-1057.1920.1057" timestamp="1584391157376" />
-    <state x="157" y="-909" key="SettingsEditor" timestamp="1586544690534">
+    <state x="482" y="-876" key="SettingsEditor" timestamp="1586545110198">
       <screen x="-304" y="-1080" width="1920" height="1080" />
     </state>
     <state x="434" y="-952" key="SettingsEditor/0.0.1440.900/-279.-1080.1920.1080@-279.-1080.1920.1080" timestamp="1585998021544" />
-    <state x="157" y="-909" key="SettingsEditor/0.0.1440.900/-304.-1080.1920.1080@-304.-1080.1920.1080" timestamp="1586544690534" />
+    <state x="482" y="-876" key="SettingsEditor/0.0.1440.900/-304.-1080.1920.1080@-304.-1080.1920.1080" timestamp="1586545110198" />
     <state x="157" y="-909" key="SettingsEditor/0.23.1440.821/-304.-1080.1920.1080@-304.-1080.1920.1080" timestamp="1585597963925" />
     <state x="182" y="-890" key="SettingsEditor/0.23.1440.822/-279.-1057.1920.1057@-279.-1057.1920.1057" timestamp="1584965702608" />
     <state x="182" y="-890" key="SettingsEditor/0.23.1440.823/-279.-1057.1920.1057@-279.-1057.1920.1057" timestamp="1584975454976" />
